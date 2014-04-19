@@ -5,7 +5,7 @@ Referência: <a href="http://pt.wikipedia.org/wiki/Algoritmo">Pt Wikipedia</a>
 Obs: Pode ser encontrados apostilas através dos nomes: Algoritmo ou Lógica de Programação.
 <br/>
 
-## Apostilas / Tutoriais
+### Apostilas / Tutoriais
 
 <ul>
 <li><a href="https://fit.faccat.br/~fpereira/apostilas/apostila_algoritmos_mar2007.pdf">Apostila de Lógica de Programação - Profa. Flávia Pereira de Carvalho | FACCAT</a></li>
@@ -13,13 +13,13 @@ Obs: Pode ser encontrados apostilas através dos nomes: Algoritmo ou Lógica de 
 o Almeida Martins | UFU</a></li>
 </ul>
 
-## Videos
+### Videos
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=3hv5_hWPIeo">Algoritmos com Alvino Klose</a></li>
 </ul>
 
-## Exercicios
+### Exercicios
 
 <ul>
 <li><a href="http://algoritmizando.com/desenvolvimento/40-exercicios-de-algoritmos-resolvidos-para-estudo/">40 exercicios de algoritmos Resolvidos para estudos</a></li>
