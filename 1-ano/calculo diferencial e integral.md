@@ -3,8 +3,6 @@
 
 Referência: <a href="http://pt.wikipedia.org/wiki/C%C3%A1lculo">Pt Wikipedia</a>
 
-<br/>
-
 ## Apostilas / Tutoriais
 ### Inglês
 <ul>
@@ -13,9 +11,7 @@ Referência: <a href="http://pt.wikipedia.org/wiki/C%C3%A1lculo">Pt Wikipedia</a
 
 ### Português
 <ul>
-<li><a href="http://portal.virtual.ufpb.br/biblioteca-virtual/files/pub_1291086101.pdf">Cálculo Diferencial e Integral I - 161
-Disciplina: Cálculo Diferencial e Integral I
-Prof. Dr. Frederico de Oliveira Matias | UFPB</a></li>
+<li><a href="http://portal.virtual.ufpb.br/biblioteca-virtual/files/pub_1291086101.pdf">Cálculo Diferencial e Integral I - Prof. Dr. Frederico de Oliveira Matias | UFPB</a></li>
 <li><a href=""></a></li>
 </ul>
 
