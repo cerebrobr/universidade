@@ -15,6 +15,8 @@ Obs: O networking é tudo para a nossa profissão, invista no seu futuro.
 <li>Introdução à Administração</li>
 <li>Teoria Geral da Administração</li>
 <li>Introdução a COmputação</li>
+<li>Matemática Discreta</li>
+<li>Lógica Matemática</li>
 </ul>
 
 2º Ano
