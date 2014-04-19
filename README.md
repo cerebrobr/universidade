@@ -10,13 +10,13 @@ Obs: O networking é tudo para a nossa profissão, invista no seu futuro.
 1º Ano 
 </a>
 <ul>
-<li><a href="#">Algoritmos</a></li>
-<li><a href="#">Calculo Diferencial e Integral</a></li>
-<li><a href="#">Introdução à Administração</a></li>
-<li><a href="#">Teoria Geral da Administração</a></li>
-<li><a href="#">Introdução a COmputação</a></li>
-<li><a href="#">Matemática Discreta</a></li>
-<li><a href="#">Lógica Matemática</a></li>
+<li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/1-ano/algoritmo.md">Algoritmos</a></li>
+<li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/1-ano/calculo%20diferencial%20e%20integral.md">Calculo Diferencial e Integral</a></li>
+<li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/1-ano/introducao%20a%20administracao.md">Introdução à Administração</a></li>
+<li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/1-ano/teoria%20geral%20de%20administracao.md">Teoria Geral da Administração</a></li>
+<li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/1-ano/introducao%20a%20computacao.md">Introdução a Computação</a></li>
+<li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/1-ano/logica%20matematica.md">Matemática Discreta</a></li>
+<li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/1-ano/logica%20matematica.md">Lógica Matemática</a></li>
 </ul>
 
 2º Ano
