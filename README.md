@@ -7,41 +7,50 @@ O objetivo desse repositório é facilitar o entendimento das pessoas que querem
 
 1º Ano 
 
-Algoritmos
-Calculo Diferencial e Integral
-Introdução à Administração
-Teoria Geral da Administração
-Introdução a COmputação
+<ul>
+<li>Algoritmos</li>
+<li>Calculo Diferencial e Integral</li>
+<li>Introdução à Administração</li>
+<li>Teoria Geral da Administração</li>
+<li>Introdução a COmputação</li>
+</ul>
 
 2º Ano
 
-Algebra Linear
-Contabilidade e Custos
-Estrutura de Dados
-Linguagem de Programação
-Probabilidade e Estatistica
-Teoria Geral de Sistemas
-Tomada de Decisão
+<ul>
+<li>Algebra Linear</li>
+<li>Contabilidade e Custos</li>
+<li>Estrutura de Dados</li>
+<li>Linguagem de Programação</li>
+<li>Probabilidade e Estatistica</li>
+<li>Teoria Geral de Sistemas</li>
+<li>Tomada de Decisão</li>
+</ul>
 
 3º Ano
 
-Economia e Finanças
-Empreendedorismo
-Engenharia de Software
-Gestão da Informação e dos Sistemas de Informação
-Introdução a circuitos e Sistemas Digitais
-Projeto de Banco de Dados
-Segurança e Auditoria de Sistemas de Informação
-Sistemas Operacionais
-Trabalho Cooperativo Apoiado por Computadores
+<ul>
+<li>Economia e Finanças</li>
+<li>Empreendedorismo</li>
+<li>Engenharia de Software</li>
+<li>Gestão da Informação e dos Sistemas de Informação</li>
+<li>Introdução a circuitos e Sistemas Digitais</li>
+<li>Projeto de Banco de Dados</li>
+<li>Segurança e Auditoria de Sistemas de Informação</li>
+<li>Sistemas Operacionais</li>
+<li>Trabalho Cooperativo Apoiado por Computadores</li>
+</ul>
 
 4º Ano
 
-Arquitetura e Projeto de Software
-Avaliação de Sistemas
-Inteligência Artificial
-Programação para Ambientes Distribuidos
-Redes de Computadores
-Sistemas de Apoio a Decisão
-Sistemas Distribuidos
-Qualidade de Software
+<ul>
+<li>Arquitetura e Projeto de Software</li>
+<li>Avaliação de Sistemas</li>
+<li>Inteligência Artificial</li>
+<li>Programação para Ambientes Distribuidos</li>
+<li>Redes de Computadores</li>
+<li>Sistemas de Apoio a Decisão</li>
+<li>Sistemas Distribuidos</li>
+<li>Qualidade de Software</li>
+</ul>
+
