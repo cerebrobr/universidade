@@ -1,4 +1,4 @@
-### Descrição: 
+<strong>Descrição</strong>: 
 <br/>
 
 Referência: <a href="#"></a>
