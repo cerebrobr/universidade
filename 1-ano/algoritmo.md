@@ -2,7 +2,7 @@
 
 Referência: <a href="http://pt.wikipedia.org/wiki/Algoritmo">Pt Wikipedia</a>
 <br/>
-Obs: Pode ser encontrados apostilas através dos nomes: ALgoritmo ou Lógica de Programação.
+Obs: Pode ser encontrados apostilas através dos nomes: Algoritmo ou Lógica de Programação.
 <br/>
 
 ## Apostilas / Tutoriais
