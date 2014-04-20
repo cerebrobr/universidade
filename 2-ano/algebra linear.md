@@ -1,3 +1,4 @@
+## Algebra Linear
 <strong>Descrição</strong>: Álgebra linear é um ramo da matemática que surgiu do estudo detalhado de sistemas de equações lineares, sejam elas algébricas ou diferenciais. A álgebra linear se utiliza de alguns conceitos e estruturas fundamentais da matemática como vetores, espaços vetoriais, transformações lineares, sistemas de equações lineares e matrizes.
 <br/>
 
@@ -19,8 +20,7 @@ Referência: <a href="http://pt.wikipedia.org/wiki/%C3%81lgebra_linear">Pt Wikip
 
 <ul>
 	<li><a href="https://www.youtube.com/watch?v=fEfh5mjKg_I">Algebra Linear - Adilio Soares</a></li> 
-<!-- 
-	
+<!-- 	
 	<li><a href=""></a></li> 
 -->
 </ul>
@@ -28,7 +28,9 @@ Referência: <a href="http://pt.wikipedia.org/wiki/%C3%81lgebra_linear">Pt Wikip
 ### Exercicios
 
 <ul>
-<!-- 
+	<li><a href="https://www.youtube.com/watch?v=gnoHnZ4f4JU">Exercicios Resolvidos | Video</a></li>
+	<li><a href="http://www.academia.edu/4826043/Algebra_Linear_Exercicios_Resolvidos">Exercicios Resolvidos | Academia</a></li>
+<!--	
 	<li><a href=""></a></li> 
 -->
 </ul>
