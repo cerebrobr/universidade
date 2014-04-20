@@ -8,17 +8,23 @@ Referência: <a href="#"></a>
 ### Apostilas / Tutoriais
 
 <ul>
-<li><a href=""></a></li>
+<!-- 
+	<li><a href=""></a></li> 
+-->
 </ul>
 
 ### Videos
 
 <ul>
-<li><a href=""></a></li>
+<!-- 
+	<li><a href=""></a></li> 
+-->
 </ul>
 
 ### Exercicios
 
 <ul>
-<li><a href=""></a></li>
+<!-- 
+	<li><a href=""></a></li> 
+-->
 </ul>

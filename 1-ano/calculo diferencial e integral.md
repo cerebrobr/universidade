@@ -7,20 +7,21 @@ Referência: <a href="http://pt.wikipedia.org/wiki/C%C3%A1lculo">Pt Wikipedia</a
 
 <ul>
 <li><a href="http://portal.virtual.ufpb.br/biblioteca-virtual/files/pub_1291086101.pdf">Cálculo Diferencial e Integral I - Prof. Dr. Frederico de Oliveira Matias | UFPB</a></li>
-<li><a href="http://www.mtm.ufsc.br/~taneja/MATREDE/Math4/Math4.html"></a></li>
-<li><a href="">Cálculo diferencial e integral | UFSC</a></li>
+<li><a href="http://www.mtm.ufsc.br/~taneja/MATREDE/Math4/Math4.html">Cálculo diferencial e integral | UFSC</a></li>
 </ul>
 
 ### Videos
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=WHNcAujGzQk">Curso de Cálculo Diferencial e Integral | Gleison Pinto Ramos</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.youtube.com/watch?v=XJCmMuZV-JA">Cursos Unicamp - Cálculo 1</a></li>
+
 </ul>
 
 ### Exercicios
 
 <ul>
-<li><a href=""></a></li>
+<!-- 
+	<li><a href=""></a></li> 
+-->
 </ul>
