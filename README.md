@@ -6,7 +6,7 @@ A grade é referente a universidade que estudo/estudei chamada Universidade Cat�
 <br />
 Obs: O networking é tudo para a nossa profissão, invista no seu futuro.
 
- Grade
+## Grade
 
 1º Ano 
 </a>
@@ -53,7 +53,7 @@ Obs: O networking é tudo para a nossa profissão, invista no seu futuro.
 <li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/4-ano/programacao%20para%20ambientes%20distribuidos.md">Programação para Ambientes Distribuidos</a></li>
 <li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/4-ano/redes.md">Redes de Computadores</a></li>
 <li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/4-ano/sistema%20de%20apoio%20a%20decisao.md">Sistemas de Apoio a Decisão</a></li>
-<li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/4-ano/sistema%20distribuidos.md">Sistemas Distribuidos</a></li>
+<li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/4-ano/sistema%20distribuidos.md">Sistemas Distribuídos</a></li>
 <li><a href="https://github.com/nicholasess/sistemadeinformacao/blob/master/4-ano/qualidade%20de%20software.md">Qualidade de Software</a></li>
 </ul>
 
