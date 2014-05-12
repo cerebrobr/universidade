@@ -8,57 +8,42 @@ Obs: O networking é tudo para a nossa profissão, invista no seu futuro.
 
 ## Grade
 
-1º Ano 
-</a>
-<ul>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/algoritmo.md">Algoritmos</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/calculo%20diferencial%20e%20integral.md">Calculo Diferencial e Integral</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/introducao%20a%20administracao.md">Introdução à Administração</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/teoria%20geral%20de%20administracao.md">Teoria Geral da Administração</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/introducao%20a%20computacao.md">Introdução a Computação</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/logica%20matematica.md">Matemática Discreta</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/logica%20matematica.md">Lógica Matemática</a></li>
-</ul>
+1º Ano
+
+- [Algoritmos](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/algoritmo.md)
+- [Calculo Diferencial e Integral](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/calculo%20diferencial%20e%20integral.md)
+- [Introdução à Administração](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/introducao%20a%20administracao.md)
+- [Introdução a Computação](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/introducao%20a%20computacao.md)
+- [Lógica Matemática](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/logica%20matematica.md)
+- [Matemática Discreta](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/logica%20matematica.md)
+- [Teoria Geral da Administração](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/1-ano/teoria%20geral%20de%20administracao.md)
 
 2º Ano
 
-<ul>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/algebra%20linear.md">Algebra Linear</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/contabilidade%20e%20custos.md">Contabilidade e Custos</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/estrutura%20de%20dados.md">Estrutura de Dados</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/linguagem%20de%20programacao.md">Linguagem de Programação</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/probabilidade%20e%20estatistica.md">Probabilidade e Estatistica</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/teoria%20geral%20de%20sistemas.md">Teoria Geral de Sistemas</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/tomada%20de%20decisao.md">Tomada de Decisão</a></li>
-</ul>
+- [Algebra Linear](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/algebra%20linear.md)
+- [Contabilidade e Custos](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/contabilidade%20e%20custos.md)
+- [Estrutura de Dados](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/estrutura%20de%20dados.md)
+- [Linguagem de Programação](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/linguagem%20de%20programacao.md)
+- [Probabilidade e Estatistica](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/probabilidade%20e%20estatistica.md)
+- [Teoria Geral de Sistemas](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/teoria%20geral%20de%20sistemas.md)
+- [Tomada de Decisão](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/2-ano/tomada%20de%20decisao.md)
 
 3º Ano
 
-<ul>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/economia%20e%20financas.md">Economia e Finanças</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/empreendedorismo.md">Empreendedorismo</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/engenharia%20de%20software.md">Engenharia de Software</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/circuitos%20digitais.md">Introdução a circuitos e Sistemas Digitais</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/banco%20de%20dados.md">Projeto de Banco de Dados</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/seguranca%20da%20informacao.md">Segurança e Auditoria de Sistemas de Informação</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/sistemais%20operacionais.md">Sistemas Operacionais</a></li>
-
-</ul>
+- [Economia e Finanças](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/economia%20e%20financas.md)
+- [Empreendedorismo](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/empreendedorismo.md)
+- [Engenharia de Software](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/engenharia%20de%20software.md)
+- [Introdução a circuitos e Sistemas Digitais](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/circuitos%20digitais.md)
+- [Projeto de Banco de Dados](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/banco%20de%20dados.md)
+- [Segurança e Auditoria de Sistemas de Informação](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/seguranca%20da%20informacao.md)
+- [Sistemas Operacionais](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/3-ano/sistemais%20operacionais.md)
 
 4º Ano
 
-<ul>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/arquitetura%20e%20projeto%20de%20software.md">Arquitetura e Projeto de Software</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/inteligencia%20artificial.md">Inteligência Artificial</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/programacao%20para%20ambientes%20distribuidos.md">Programação para Ambientes Distribuidos</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/redes.md">Redes de Computadores</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/sistema%20de%20apoio%20a%20decisao.md">Sistemas de Apoio a Decisão</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/sistema%20distribuidos.md">Sistemas Distribuídos</a></li>
-<li><a href="https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/qualidade%20de%20software.md">Qualidade de Software</a></li>
-</ul>
-
-TCC
-
-<ul>
-
-</ul>
+- [Arquitetura e Projeto de Software](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/arquitetura%20e%20projeto%20de%20software.md)
+- [Inteligência Artificial](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/inteligencia%20artificial.md)
+- [Programação para Ambientes Distribuidos](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/programacao%20para%20ambientes%20distribuidos.md)
+- [Redes de Computadores](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/redes.md)
+- [Sistemas de Apoio a Decisão](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/sistema%20de%20apoio%20a%20decisao.md)
+- [Sistemas Distribuídos](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/sistema%20distribuidos.md)
+- [Qualidade de Software](https://github.com/cerebrobr/universidade/blob/master/sistema%20de%20informacao/4-ano/qualidade%20de%20software.md)
