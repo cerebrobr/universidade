@@ -1,9 +1,12 @@
 ## Arquitetura e Projeto de Software
-<strong>Descrição</strong>: 
+<strong>Descrição Arquitetura</strong>: A arquitetura de software de um sistema consiste na definição dos componentes de software, suas propriedades externas, e seus relacionamentos com outros softwares. O termo também se refere à documentação da arquitetura de software do sistema. A documentação da arquitetura do software facilita: a comunicação entre os stakeholders, registra as decisões iniciais acerca do projeto de alto-nível, e permite o reúso do projeto dos componentes e padrões entre projetos.
 <br/>
 
-Referência: <a href=""></a>
+Referência: <a href="http://pt.wikipedia.org/wiki/Arquitetura_de_software">pt.wikipedia</a>
 
+<strong>Descrição Projeto</strong>:
+<br/>
+Referência: <a href="http://pt.wikipedia.org/wiki/Projeto_de_software">pt.wikipedia</a>
 <br/>
 
 ### Apostilas / Tutoriais
