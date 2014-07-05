@@ -4,7 +4,7 @@
 
 Referência: <a href="http://pt.wikipedia.org/wiki/Arquitetura_de_software">pt.wikipedia</a>
 
-<strong>Descrição Projeto</strong>:
+<strong>Descrição Projeto</strong>: Design de Software (do inglês Software design) é a parte da engenharia de software que se encarrega de transformar os resultados da Análise de Requisitos em um documento ou conjunto de documentos capazes de serem interpretados diretamente pelo programador.
 <br/>
 Referência: <a href="http://pt.wikipedia.org/wiki/Projeto_de_software">pt.wikipedia</a>
 <br/>
