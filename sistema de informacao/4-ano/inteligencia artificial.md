@@ -13,7 +13,8 @@ Referência: [Pt Wikipedia](http://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artif
 
 ### Videos
 
+- []()
 
 ### Exercicios
 
-
+- []()
