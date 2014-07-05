@@ -19,6 +19,8 @@ Referência: <a href="http://pt.wikipedia.org/wiki/Projeto_de_software">pt.wikip
 
 ### Videos
 
-
+- []()
 
 ### Exercicios
+
+- []()
