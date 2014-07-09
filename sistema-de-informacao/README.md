@@ -13,7 +13,7 @@
 
 ### 1º Ano
 
-- [Algoritmos](sistema-de-informacao/1-ano/algoritmo.md)
+- [Algoritmos](1-ano/algoritmo.md)
 - [Calculo Diferencial e Integral](sistema-de-informacao/1-ano/calculo-diferencial-e-integral.md)
 - [Introdução à Administração](sistema-de-informacao/1-ano/introducao-a-administracao.md)
 - [Introdução a Computação](sistema-de-informacao/1-ano/introducao-a-computacao.md)
