@@ -4,7 +4,7 @@
 
 **Universidade:** Universidade Católica de Santos - UNISANTOS.
 
-**Imporatante:** este repositório não contém quaisquer materiais da UNISANTOS, somente conteúdos retirados da internet.
+**Importante:** este repositório não contém quaisquer materiais da UNISANTOS, somente conteúdos retirados da internet.
 
 > O networking é tudo para a nossa profissão, invista no seu futuro.
 
