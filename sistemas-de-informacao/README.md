@@ -1,4 +1,4 @@
-# Sistema de Informação
+# Sistemas de Informação
 
 **Universidade:** Universidade Católica de Santos - UNISANTOS.
 

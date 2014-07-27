@@ -4,10 +4,10 @@ Neste repositório, você encontra a matriz curricular do respectivo curso de gr
 
 ## Matrizes Curriculares
 
-| Curso                                            | Universidade | Local         |
-|--------------------------------------------------|--------------|---------------|
-| [Ciência da Computação](ciencia-da-computacao/)  | UNIFACS      | Salvador - BA |
-| [Sistema de Informação](sistemas-de-informacao/) | UNISANTOS    | Santos - SP   |
+| Curso                                             | Universidade | Local         |
+|---------------------------------------------------|--------------|---------------|
+| [Ciência da Computação](ciencia-da-computacao/)   | UNIFACS      | Salvador - BA |
+| [Sistemas de Informação](sistemas-de-informacao/) | UNISANTOS    | Santos - SP   |
 
 
 ## Objetivo deste repositório
