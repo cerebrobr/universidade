@@ -1,6 +1,6 @@
 # Ciência da Computação
 
-**Universidade:** Universidade Faculdade Salvador - UNIFACS.
+**Universidade:** Universidade Salvador - UNIFACS.
 
 **Curso:** Ciência da Computação
 
