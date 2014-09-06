@@ -2,7 +2,7 @@
 
 **Descrição:** Um algoritmo é uma sequência finita de instruções bem definidas e não ambíguas, cada uma das quais pode ser executada mecanicamente num período de tempo finito e com uma quantidade de esforço finita.
 
-**Referência:** [Pt Wikipedia](http://pt.wikipedia.org/wiki/Algoritmo)
+**Referência:** [Wikipedia](http://pt.wikipedia.org/wiki/Algoritmo)
 
 ## Apostilas / Tutoriais
 

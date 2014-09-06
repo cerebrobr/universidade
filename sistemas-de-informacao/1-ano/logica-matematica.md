@@ -2,7 +2,7 @@
 
 **Descrição:** Lógica Matemática é uma sub-área da matemática que explora as aplicações da lógica formal para a matemática. Basicamente, lógica matemática tem ligações fortes com metamatemática, os fundamentos da matemática e ciência da computação teórica.1 Os temas unificadores na lógica matemática incluem o estudo do poder expressivo de sistemas formais e o poder dedutivo de sistemas de prova matemática formal.
 
-**Referência:** [Pt Wikipedia](http://pt.wikipedia.org/wiki/L%C3%B3gica_matem%C3%A1tica)
+**Referência:** [Wikipedia](http://pt.wikipedia.org/wiki/L%C3%B3gica_matem%C3%A1tica)
 
 ## Apostilas / Tutoriais
 
