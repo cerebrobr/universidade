@@ -1,6 +1,6 @@
 # Universidade
 
-Neste repositório, você encontra a matriz curricular do respectivo curso de graduação com conteúdos da retirados da internet.
+Neste repositório você encontra a matriz curricular do respectivo curso de graduação com conteúdos retirados da internet.
 
 ## Matrizes Curriculares
 
