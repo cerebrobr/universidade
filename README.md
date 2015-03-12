@@ -4,10 +4,12 @@ Neste repositório você encontra a matriz curricular do respectivo curso de gra
 
 ## Matrizes Curriculares
 
-| Curso                                             | Universidade | Local         |
-|---------------------------------------------------|--------------|---------------|
-| [Ciência da Computação](ciencia-da-computacao/)   | UNIFACS      | Salvador - BA |
-| [Sistemas de Informação](sistemas-de-informacao/) | UNISANTOS    | Santos - SP   |
+| Curso                                                                           | Universidade | Local         |
+|---------------------------------------------------------------------------------|--------------|---------------|
+| [Análise e Desenvolvimento de Sistemas](analise-e-desenvolvimento-de-sistemas/) | FATEC RL     | Santos - SP   |
+| [Ciência da Computação](ciencia-da-computacao/)                                 | UNIFACS      | Salvador - BA |
+| [Sistemas de Informação](sistemas-de-informacao/)                               | UNISANTOS    | Santos - SP   |
+| [Sistemas para Internet](sistemas-para-internet/)                               | FATEC RL     | Santos - SP   |
 
 
 ## Objetivo deste repositório
